@@ -1,0 +1,18 @@
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\bin\Debug\s-link_algorithm.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\obj\Debug\s_link_algorithm.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\obj\Debug\s_link_algorithm.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\bin\Debug\s-link_algorithm.exe
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\bin\Debug\s-link_algorithm.pdb
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.exe
+c:\users\pc\documents\visual studio 2012\Projects\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.pdb
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\bin\Debug\s-link_algorithm.exe.config
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.exe
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.pdb
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\bin\Debug\s-link_algorithm.exe
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\bin\Debug\s-link_algorithm.pdb
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.csprojResolveAssemblyReference.cache
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\obj\Debug\s_link_algorithm.Form1.resources
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\obj\Debug\s_link_algorithm.Properties.Resources.resources
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\s-link_algorithm\s-link_algorithm\obj\Debug\s-link_algorithm.csproj.GenerateResource.Cache
